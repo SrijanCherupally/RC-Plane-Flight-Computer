@@ -27,3 +27,10 @@ Model of the wing I wanted to design above, but its not ready to print yet.
 Time Spent: 4 hours
 
 ## Day 5
+Today I worked on a portion the wing, to make it ready to print in LW PLA. ![image](https://github.com/user-attachments/assets/90158a64-1c84-417b-a2fb-783069694edb)
+
+I modified it so that there would be space for another wing to slide in, and edited it for more weight performance.
+
+Time Spent: 5 hours
+
+## Day 6
