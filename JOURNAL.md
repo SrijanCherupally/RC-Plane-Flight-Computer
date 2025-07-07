@@ -1,3 +1,5 @@
+## Time Spent Total - 53 hours
+
 ## DAY 1
 Today I began researching on how to make RC Plane Wings. Since the plane I was building was going to be 3d printed out of LW-PLA, I wanted to also make the wings made from LW-PLA. However, there are many problems with LW-PlA, one being the stringing problem. Since LW PLA is an actively foaming filament, when we move the nozzle, even if we stop retracting, the filament keeps coming out, leadng to severe cases of stringing. Furthermore, if we tried to retract the filament back into the nozzle, it would foam up inside the nozzle, causing a clog. This means, that the 3d model itself must be designed so that there are not pauses or retractions throughout the entire print, to allow good surface finish and quality. 
 One of the main problems I encountered was that there werent that many tutorials dedicated to 3d modeling for lw pla. Thankfully, Tom Stanton made a wonderful tutorial on how to make a LW-PLA wing, but this was still far behind from what I needed to accomplish.
