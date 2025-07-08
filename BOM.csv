@@ -3,9 +3,9 @@ Push Rods,10,"For Servo to make the Wing Ailerons move",1,https://www.amazon.com
 CA Glue + Accelerator,28,"To glue wing together",1,https://www.amazon.com/dp/B09V77GH24
 9g Servos,15,"To actuate the wing ailerons",1,https://www.amazon.com/dp/B07R29RRTS
 Battery,22,"To power the plane",1,https://www.amazon.com/dp/B08L8QFGDR
-Propeller 10x4.7, 8x4,30,"To move the plane",1,https://www.amazon.com/dp/B08XQHYZQK
+"Propeller 10x4.7, 8x4",30,"To move the plane",1,https://www.amazon.com/dp/B08XQHYZQK
 LW-PLA,50,"To print out the wings",1,https://colorfabb.com/lw-pla-yellow
 Soldering Iron,33,"To solder the PCB to the GPS Module",1,https://www.amazon.com/dp/B08NDQGJMC
 GPS Module,11,"To track location and velocity for my experiment",1,https://www.amazon.com/dp/B07GBZ4Q68
 PCB,95,"To track location and velocity for my experiment",1,
-Total,294,,,, 
+Total,294,,, 
