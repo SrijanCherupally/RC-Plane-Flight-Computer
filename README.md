@@ -10,3 +10,19 @@ In order to gain this data, I will be needing a Flight Computer for my plane, to
 ![image](https://github.com/user-attachments/assets/06fc6e53-5af7-4822-bdb8-8c1503d68fe5)
 
 ![image](https://github.com/user-attachments/assets/cbea76ec-8aa4-436b-93b6-02a3d2c9394f)
+
+## Bill of Materials
+
+| **Item**                 | **Cost (USD)** | **Description**                                                | **Quantity** | **Link**                                                                                                                                                                                                 |
+|--------------------------|----------------|----------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Push Rods                | 10             | For Servo to make the Wing Ailerons move                       | 1            | [Steel Music Wire (4-count)](https://www.amazon.com/dp/B0006O8Q7Y)                                                                                                  |
+| CA Glue + Accelerator    | 28             | To glue wing together                                          | 1            | [Magic Chems CA Glue with Activator](https://www.amazon.com/dp/B09V77GH24)                                                                                         |
+| 9g Servos                | 15             | To actuate the wing ailerons                                   | 1            | [SG90 Micro Servo 9G Kit - 8 Pcs](https://www.amazon.com/dp/B07R29RRTS)                                                                                            |
+| Battery                  | 22             | To power the plane                                             | 1            | [OVONIC 3S 11.1V 1000mAh LiPo Battery](https://www.amazon.com/dp/B08L8QFGDR)                                                                                       |
+| Propeller 10x4.7, 8x4    | 30             | To move the plane                                              | 1            | [uxcell RC Propellers CW CCW 8045 8x4.5](https://www.amazon.com/dp/B08XQHYZQK)                                                                                      |
+| LW-PLA                   | 50             | To print out the wings                                         | 1            | [LW-PLA Yellow – Lightweight Foaming PLA](https://colorfabb.com/lw-pla-yellow)                                                                                      |
+| Soldering Iron           | 33             | To solder the PCB to the GPS Module                            | 1            | [100W Soldering Station Kit](https://www.amazon.com/dp/B08NDQGJMC)                                                                                                  |
+| GPS Module               | 11             | To track location and velocity for my experiment               | 1            | [GY-NEO6MV2 GPS Module - 2PCS](https://www.amazon.com/dp/B07GBZ4Q68)                                                                                                |
+| PCB                     | 95             | To track location and velocity for my experiment               | 1            | *(Custom, link not provided)*                                                                                                                                       |
+
+**Total Cost:** **$294**
