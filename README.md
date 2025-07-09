@@ -13,16 +13,13 @@ In order to gain this data, I will be needing a Flight Computer for my plane, to
 
 ## Bill of Materials
 
-| **Item**                 | **Cost (USD)** | **Description**                                      | **Quantity** | **Link** |
-|--------------------------|----------------|------------------------------------------------------|--------------|---------|
-| Push Rods                | 10             | For servo to move the wing ailerons                 | 1            | [Steel Music Wire (4-count)](https://www.familyhardware.com/product/k-s-032-in-x-36-in-steel-music-wire-4-count-/277975) |
-| CA Glue + Accelerator    | 28             | To glue wing together                               | 1            | [Magic Chems CA Glue with Activator](https://www.amazon.com/Activator-Woodworking-Cyanoacrylate-Plastic-Metal/dp/B0C77Z6F6D) |
-| 9g Servos                | 15             | To actuate the wing ailerons                        | 1            | [SG90 Micro Servo 9G Kit - 8 Pcs](https://www.amazon.com/AYWHP-Helicopter-Drones-Robotics-Control/dp/B0DRHXGY4X) |
-| Battery                  | 22             | To power the plane                                  | 1            | [OVONIC 3S 11.1V 1000mAh LiPo Battery](https://www.amazon.com/1000mAh-Airplane-Quadcopter-Helicopter-Multi-Motor/dp/B07TJW4SY9) |
-| Propeller 10x4.7, 8x4    | 30             | To move the plane                                   | 1            | [uxcell RC Propellers CW CCW 8045 8x4.5](https://www.amazon.com/uxcell-Propellers-Fixed-Wing-Airplane-Adapter/dp/B07YYV2JL4) |
-| LW-PLA                   | 50             | To 3D print the wings                                | 1            | [LW-PLA Yellow – Lightweight Foaming PLA](https://colorfabb.com/lw-pla-yellow) |
-| Soldering Iron           | 33             | To solder the PCB to the GPS module                 | 1            | [100W Soldering Station Kit](https://www.amazon.com/Soldering-Station-Digital-Display-Helping/dp/B0DJR79P3J) |
-| GPS Module               | 11             | To track location and velocity for my experiment    | 1            | [GY-NEO6MV2 GPS Module - 2PCS](https://www.amazon.com/AITRIP-GY-NEO6MV2-Controller-Ceramic-Antenna/dp/B0CWL774NR) |
-| PCB                      | 95             | Custom flight computer PCB                          | 1            | *(Custom Part)* |
+| **Item**         | **Cost (USD)** | **Description**                                      | **Quantity** | **Link** |
+|------------------|----------------|------------------------------------------------------|--------------|---------|
+| Push Rods        | 10             | For servo to move the wing ailerons                 | 1            | [Steel Music Wire (4-count)](https://www.familyhardware.com/product/k-s-032-in-x-36-in-steel-music-wire-4-count-/277975) |
+| 9g Servos        | 15             | To actuate the wing ailerons                        | 1            | [SG90 Micro Servo 9G Kit - 8 Pcs](https://www.amazon.com/AYWHP-Helicopter-Drones-Robotics-Control/dp/B0DRHXGY4X) |
+| Battery          | 22             | To power the plane                                  | 1            | [OVONIC 3S 11.1V 1000mAh LiPo Battery](https://www.amazon.com/1000mAh-Airplane-Quadcopter-Helicopter-Multi-Motor/dp/B07TJW4SY9) |
+| Soldering Iron   | 33             | To solder the PCB to the GPS module                 | 1            | [100W Soldering Station Kit](https://www.amazon.com/Soldering-Station-Digital-Display-Helping/dp/B0DJR79P3J) |
+| GPS Module       | 11             | To track location and velocity for my experiment    | 1            | [GY-NEO6MV2 GPS Module - 2PCS](https://www.amazon.com/AITRIP-GY-NEO6MV2-Controller-Ceramic-Antenna/dp/B0CWL774NR) |
+| PCB              | 95             | Custom flight computer PCB                          | 1            | *(Custom Part)* |
 
-**Total Cost:** **$294**
+**Total Cost:** **$186**
